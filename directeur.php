@@ -1,7 +1,4 @@
 <?php
-namespace gestion_salarie\Salaries\directeur;
-require_once "salarie.php";
-use gestion_salarie\Salaries\salarie\Salarie;
 
 class Directeur extends Salarie{
     public $prime;
